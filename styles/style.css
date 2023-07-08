@@ -1,0 +1,11 @@
+div{
+    /* background-color: black; */
+    margin: 20px;
+    padding: 20px;
+    padding-top: 0%;
+    text-align: center;
+    color: azure;
+    background-image: url("background.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
